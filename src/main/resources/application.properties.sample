@@ -1,0 +1,5 @@
+#conexion atlas
+spring.data.mongodb.uri=mongodb+srv://jfreyes:3156045116*@master.lftysms.mongodb.net/movies?retryWrites=true&w=majority
+#conexion local
+#spring.data.mongodb.uri=mongodb://localhost:8080/jfreyes:3156045116*@master.lftysms.mongodb.net/movies?retryWrites=true&w=majority
+#spring.data.mongodb.database=jfreyes:3156045116*@master.lftysms.mongodb.net/movies?
